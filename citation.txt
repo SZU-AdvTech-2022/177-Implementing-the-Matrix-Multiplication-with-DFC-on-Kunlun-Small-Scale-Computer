@@ -1,0 +1,8 @@
+@article{REPO-178,
+    author = "Du, Zheng and Zhang, Jing and Sha, Shihao and Luo, Qiuming",
+    doi = "10.1109/PDCAT46702.2019.00032",
+    journal = "2019 20th International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT)",
+    pages = "115-120",
+    title = "{Implementing the Matrix Multiplication with DFC on Kunlun Small Scale Computer}",
+    year = "2019"
+}
